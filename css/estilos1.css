@@ -22,3 +22,6 @@ nav ul li a  {color: rgb(255, 255, 255);display: inline-block;padding: 0px;line-
 
 footer{text-align: center;padding-top: 30px;}
 video {width: 400px ;height: 320px;}
+
+nav ul li:hover  {display: inline-block;padding: 10px;
+    margin: 20px;border-radius: 30%;font-size: 30px;background-color: rgb(59, 70, 231);color: white;}
