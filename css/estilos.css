@@ -1,5 +1,6 @@
-.texto {display:inline-block;margin: 0px;padding: 0px;}
+.texto {display:inline-block;margin: 0px;padding: 0px;font-size:16px ;}
 
+h2 {color: white;display:flex;padding: 80px;margin-left: 500px;}
 span {margin: 0px;padding: 0px;font-size:15px;color: white;}
 
 div , .divi {background:rgb(255, 0, 0);
@@ -20,7 +21,7 @@ nav ul li   {display: inline-block;padding: 10px;
 nav ul li a  {color: rgb(255, 255, 255);display: inline-block;padding: 0px;line-height: 50px;
              line-height: 30px;text-decoration: none;}
 
-footer{text-align: center;padding-top: 30px;}
+footer{text-align: center;padding-top: 60px;}
 
 nav ul li:hover  {display: inline-block;padding: 10px;
     margin: 20px;border-radius: 30%;font-size: 30px;background-color: rgb(59, 70, 231);color: white;}
