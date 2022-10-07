@@ -1,34 +1,33 @@
-.texto {display:inline-block;margin: 0px;font-size:16px ;}
+.texto {display:inline-block;font-size:15px ;margin-right: 250px;margin-left: 0px;}
 
 h2 {color: white;display:flex;padding: 80px;margin-left: 500px;}
 span {margin: 0px;padding: 0px;font-size:15px;color: white;}
 
-div , .divi {background:rgb(0, 0, 0);margin-top: 70px;
+div , .divi {margin-top: 70px;
     color: rgb(255, 255, 255);display: block;height: 200px;}
     
 body {background-color:rgb(0, 0, 0);margin: 0px;padding: 0px;}
 
+.web{margin-left: 1px;}
 
 footer {display:block ;background-color:black;color:white;height: 370px;}
 
-nav {background-color: rgb(0, 0, 0);
-    height: 70px;list-style:none;font-size: 30px;margin-top:-40px;margin-left: 50px;margin-bottom: 100px;}
+nav {height: 70px;list-style:none;font-size: 30px;margin-top:-40px;margin-left: -10px;margin-bottom: 100px;}
 
-nav ul li   {display: inline-block;padding: 10px;transition: 2s;
+nav ul li   {display: inline-block;padding: 10px;transition: 1s;
           margin: 20px;border-radius: 60px;font-size: 20px;background-color: rgb(237, 153, 122);color: white;}
 
-nav ul li:hover  {background-color: rgb(255, 2, 2);color: white;}
+nav ul li:hover  {background-color: rgb(2, 91, 255);color: white;}
           
 nav ul li a  {color: rgb(255, 255, 255);display: inline-block;padding: 0px;line-height: 50px;
              line-height: 30px;text-decoration: none;}
 
-footer{text-align: center;padding-top: 600px;}
+footer{text-align: center;padding-top: 60px;}
 
 .loren {background-color: black;height: 50px;margin-top:  -50px;text-align: center;}
 
-.web{font-size: 20px;}
 
-.home {margin-left: 100px;}
+.home {display:inline-block;margin-left: -10px;}
 
 .script {margin: auto;
     padding: auto;
