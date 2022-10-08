@@ -15,7 +15,7 @@ footer {display:block ;background-color:black;color:white;height: 370px;}
 nav {height: 70px;list-style:none;font-size: 30px;margin-top:-40px;margin-left: -10px;margin-bottom: 100px;}
 
 nav ul li   {display: inline-block;padding: 10px;transition: 1s;
-          margin: 20px;border-radius: 60px;font-size: 20px;background-color: rgb(237, 153, 122);color: white;}
+          margin: 20px;border-radius: 60px;font-size: 20px;background-color: rgb(76, 181, 28);color: white;}
 
 nav ul li:hover  {background-color: rgb(2, 91, 255);color: white;}
           
