@@ -69,4 +69,19 @@ h2 {margin: 100px 0px 50px;padding: 0px;text-decoration:underline;
     
     @keyframes  {border-color : tranparent}
 
-.iconos {font-size: 35px;color: blue;}
+.face {font-size:75px;display: inline;transition: .8s;
+    text-decoration: none;padding: 25px;
+}
+
+.insta {font-size:75px;display: inline;transition: .8s;
+}
+
+.mail{font-size: 30px;transition:.7s;
+}
+
+.mail:hover {font-size: 26px;color: rgb(255, 0, 0);
+}
+
+
+.dire {font-size: 10px
+}
