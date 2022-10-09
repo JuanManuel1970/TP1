@@ -1,32 +1,54 @@
-h2 {color: white;display:flex;padding: 80px;margin-left: 500px;}
-span {margin: 0px;padding: 0px;font-size:15px;color: white;}
+h2 {color: white;display:flex;padding: 80px;margin-left: 500px;
+}
+
+span {margin: 0px;padding: 0px;font-size:15px;color: white;
+}
 
 .loren , .loren1 {padding: 40px;
-    color: rgb(255, 255, 255);display: block;font-size: 25px;}
+    color: rgb(255, 255, 255);font-size: 25px;
+}
 
     
-body {background-color:rgb(0, 0, 0);margin: 0px;padding: 0px;}
+body {background-color:rgb(0, 0, 0);margin: 0px;padding: 0px;
+}
 
-.web{margin-left: 1px;}
+#container{display: flex;align-content: space-around;
+}
 
-footer {display:block ;background-color:black;color:white;height: 370px;}
+.web{margin-left: 1px;
+}
 
-nav {height: 70px;list-style:none;font-size: 30px;margin-top:-40px;margin-left: 450px;margin-bottom: 50px;}
+footer {display:block ;background-color:black;color:white;height: 370px;
+}
+
+nav {height: 70px;list-style:none;font-size: 30px;margin-top:-40px;
+    margin-left: 450px;margin-bottom: 50px;
+}
 
 nav ul li   {display: inline-block;padding: 10px;transition: 1s;
-          margin: 20px;border-radius: 60px;font-size: 20px;background-color: rgb(76, 181, 28);color: white;}
+          margin: 20px;border-radius: 60px;font-size: 20px;background-color: rgb(76, 181, 28);
+          color: white;
+}
 
-nav ul li:hover  {background-color: rgb(0, 89, 255);color: white;border-radius: 80px;font-size: 40px}
+nav ul li:hover  {background-color: rgb(0, 89, 255);color: white;border-radius: 80px;
+    font-size: 40px
+}
           
 nav ul li a  {color: rgb(255, 255, 255);display: inline-block;padding: 0px;line-height: 50px;
-             line-height: 30px;text-decoration: none;}
+             line-height: 30px;text-decoration: none;
+}
 
-footer{text-align: center;background:transparent}
+footer{text-align: center;background:transparent
+}
 
-h2 {margin: 100px 0px 50px;padding: 0px;text-decoration:underline;}
-.logo {height: 100px;width: 100px;padding-top: -80px;}
+h2 {margin: 100px 0px 50px;padding: 0px;text-decoration:underline;
+}
 
-.home {display:inline-block;margin-left: -10px;}
+.logo {height: 100px;width: 100px;padding-top: -80px;
+}
+
+.home {display:inline-block;margin-left: -10px;
+}
 
 .script {margin: auto;
     padding: auto;
@@ -40,7 +62,11 @@ h2 {margin: 100px 0px 50px;padding: 0px;text-decoration:underline;}
     width:34ch;
     animation:typing 3.5s steps(40), 
     blink .5s infinite step-end alternate;
-    overflow: hidden;}
+    overflow: hidden;
+}
+
     @keyframes typing {from {width:0 ;}}
     
     @keyframes  {border-color : tranparent}
+
+.iconos {font-size: 35px;color: blue;}
